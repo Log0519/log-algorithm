@@ -1,6 +1,4 @@
-package com.log.other.day2002_8_13;
-
-import com.sun.org.apache.bcel.internal.generic.IF_ACMPEQ;
+package com.log.other.day2022_8_13;
 
 /**
  * @Author Log
