@@ -4,7 +4,7 @@ package com.log.other.day2022_8_12;
  * @Author Log
  * @Date 2022/8/12 9:12
  * TODO X的平方根
- * 重点考察：牛顿迭代
+ * 重点考察：牛顿迭代 公式：(x+n/x)/2
  */
 public class O03SquareRootOfX {
     public static void main(String[] args) {
