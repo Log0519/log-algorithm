@@ -1,0 +1,6 @@
+
+在使用二分查找法中，如果导致溢出，解决方法为
+
+while循环第一行不能写成int key = (low + high) / 2;
+会溢出导致key为负数死循环超时 可改成int key = (low - high) / 2 + high;
+或者 int key = (high - low) / 2 + low;

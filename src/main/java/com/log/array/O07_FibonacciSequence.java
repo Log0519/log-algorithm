@@ -67,8 +67,6 @@ public class O07_FibonacciSequence {
             low=high;
             high=sum;
         }
-
-
         return high;
     }
 
